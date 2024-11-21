@@ -4,7 +4,7 @@
 class Program {
 
 
-    void reverse()
+   static void reverse()
     {
 
         Console.WriteLine("Sriv noe her!! Så blir den feil vei");
@@ -18,7 +18,7 @@ class Program {
         }
     }
 
-    void upCase() {
+    static void upCase() {
 
         Console.WriteLine("Skriv noe for å få det is store bokstaver!");
 
@@ -29,14 +29,14 @@ class Program {
     
     static void Main() {
 
-        int input = 10;
+        int input;
 
         do
         {
             Console.WriteLine("1. Trykke 1 for å reversere teksten");
             Console.WriteLine("2. Trykke 1 for å få store bokstaver");
 
-            input = Console.ReadLine();
+            input = Convert.ToInt32(Console.ReadLine());
 
             switch (input) {
                 case 1:
@@ -51,7 +51,7 @@ class Program {
 
             }
 
-        } while (input < 10);
+        } while (input != 0);
 
     }
 }

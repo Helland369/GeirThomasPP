@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/th/code/csharp/pp/pp.csproj": {}
+    "/home/th/github/GeirThomasPP/pp.csproj": {}
   },
   "projects": {
-    "/home/th/code/csharp/pp/pp.csproj": {
+    "/home/th/github/GeirThomasPP/pp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/th/code/csharp/pp/pp.csproj",
+        "projectUniqueName": "/home/th/github/GeirThomasPP/pp.csproj",
         "projectName": "pp",
-        "projectPath": "/home/th/code/csharp/pp/pp.csproj",
+        "projectPath": "/home/th/github/GeirThomasPP/pp.csproj",
         "packagesPath": "/home/th/.nuget/packages/",
-        "outputPath": "/home/th/code/csharp/pp/obj/",
+        "outputPath": "/home/th/github/GeirThomasPP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/th/.nuget/NuGet/NuGet.Config"

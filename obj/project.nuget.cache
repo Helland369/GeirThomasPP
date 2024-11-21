@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f911B0KsCS08XUzklC5oqBYSOH/dfhafpeE+pXomnRGbVoPcTrgHaDDwAKlUX4O+9qsO1WG3uf0RY1gsl9WFrQ==",
+  "dgSpecHash": "BJrwOBKI0tSn9uqQ5jcFC4F2liCFVyWHSunmlwzLv5NddSaQlIcq25eYIuGfAP0n86D6g0y0VWEOa752XGjYdA==",
   "success": true,
-  "projectFilePath": "/home/th/code/csharp/pp/pp.csproj",
+  "projectFilePath": "/home/th/github/GeirThomasPP/pp.csproj",
   "expectedPackageFiles": [
     "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],
