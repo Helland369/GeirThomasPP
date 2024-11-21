@@ -8,19 +8,20 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/th/.nuget/packages/": {}
+    "/home/geir/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/th/github/GeirThomasPP/pp.csproj",
+      "projectUniqueName": "/home/geir/code/PP/GeirThomasPP/pp.csproj",
       "projectName": "pp",
-      "projectPath": "/home/th/github/GeirThomasPP/pp.csproj",
-      "packagesPath": "/home/th/.nuget/packages/",
-      "outputPath": "/home/th/github/GeirThomasPP/obj/",
+      "projectPath": "/home/geir/code/PP/GeirThomasPP/pp.csproj",
+      "packagesPath": "/home/geir/.nuget/packages/",
+      "outputPath": "/home/geir/code/PP/GeirThomasPP/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "/home/th/.nuget/NuGet/NuGet.Config"
+        "/home/geir/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +39,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/geir/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
