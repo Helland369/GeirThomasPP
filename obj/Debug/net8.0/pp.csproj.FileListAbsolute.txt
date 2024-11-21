@@ -1,0 +1,14 @@
+/home/th/code/csharp/pp/bin/Debug/net8.0/pp
+/home/th/code/csharp/pp/bin/Debug/net8.0/pp.deps.json
+/home/th/code/csharp/pp/bin/Debug/net8.0/pp.runtimeconfig.json
+/home/th/code/csharp/pp/bin/Debug/net8.0/pp.dll
+/home/th/code/csharp/pp/bin/Debug/net8.0/pp.pdb
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.AssemblyInfoInputs.cache
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.AssemblyInfo.cs
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.dll
+/home/th/code/csharp/pp/obj/Debug/net8.0/refint/pp.dll
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.pdb
+/home/th/code/csharp/pp/obj/Debug/net8.0/pp.genruntimeconfig.cache
+/home/th/code/csharp/pp/obj/Debug/net8.0/ref/pp.dll
