@@ -69,11 +69,7 @@
                     return true;
                             } 
         }
-
-      
     }
-
-
 }
 
 // Lag et program hvor du kan skrive inn en tekst, og når du sender teksten inn vil du få tilbake teksten reversert. Gjør dette uten å bruke innebygde reverse metoder
